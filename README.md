@@ -33,6 +33,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Feedback 📬
 
-We'd love to hear your feedback! If you have any questions, suggestions, or issues, please don't hesitate to [open an issue](https://github.com/yourusername/yourproject/issues) or [reach out to us](mailto:youremail@example.com).
+We'd love to hear your feedback! If you have any questions, suggestions, or issues, please don't hesitate to 
+https://www.linkedin.com/in/chethan-keshav-murthy-0b98a5248/
+
 
 Happy predicting! 🌟
